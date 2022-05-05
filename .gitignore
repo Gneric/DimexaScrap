@@ -1,0 +1,10 @@
+/env
+/.vscode
+/test
+*.pyc
+*.pyo
+*.txt
+
+test.*
+
+*.rar
